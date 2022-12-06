@@ -1,6 +1,5 @@
 import React from "react";
 import Nav from "../Components/Nav";
-import "tailwindcss/dist/tailwind.min.css";
 
 
 const Hero = () => {
